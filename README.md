@@ -1,4 +1,4 @@
-🎲 Jeu de Devinette de Nombre 🤔
+# 🎲 Jeu de Devinette de Nombre 🤔
 Un jeu amusant de devinette de nombre en Python qui va vous divertir ! 🚀
 
 Description 📚
